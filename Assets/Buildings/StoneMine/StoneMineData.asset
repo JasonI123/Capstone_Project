@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec56994a6bcb81640a5d8312debd924c, type: 3}
+  m_Name: StoneMineData
+  m_EditorClassIdentifier: 
+  maxMultDist: 0
+  maxPeople: 0
+  maxJobs: 5
+  moneyProduction: 0
+  moneyConsumption: 1
+  foodProduction: 0
+  foodMultiplier: 0
+  maxFoodMultiplier: 0
+  foodConsumption: 1
+  woodProduction: 0
+  woodConsumption: 0
+  stoneProduction: 15
+  stoneConsumption: 0
+  rawIronProduction: 0
+  rawIronConsumption: 0
+  goodsProduction: 0
+  goodsConsumption: 0
+  maxHappyDist: 10
+  happyProduction: -4
+  culture: 0
+  education: 0
+  research: 0
